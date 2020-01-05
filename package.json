@@ -1,0 +1,42 @@
+{
+  "name": "set-config",
+  "version": "0.1.0",
+  "description": "Asynchronous configuration loading from various sources",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inre/set-config.git"
+  },
+  "keywords": [
+    "Config",
+    "Settings",
+    "YAML",
+    "JSON",
+    "ChildProcess",
+    "configuration",
+    "file"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "author": "Maksim V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inre/set-config/issues"
+  },
+  "homepage": "https://github.com/inre/set-config#readme",
+  "optionalDependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-immutable-matchers": "^2.0.1",
+    "js-yaml": "^3.13.1"
+  },
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}

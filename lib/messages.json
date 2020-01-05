@@ -1,0 +1,9 @@
+{
+  "USING_BASE_CONFIG_ERROR": "BaseConfig should not be used without inheritance.",
+  "ASSERT_LOAD": "Config is still loading",
+  "MISSING_SECTION": "Section '%s' is missing.",
+  "SOURCE_NOT_FOUND": "Source '%s' is not found.",
+  "DEPENDENCY_YAML_REQUIRED": "Required optional dependency package: 'js-yaml'.",
+  "NOT_IN_CHILD_PROCESS": "Process was not spawned with an IPC channel.",
+  "NO_CONFIG": "Config is required"
+}

@@ -1,6 +1,6 @@
 {
   "name": "final-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Asynchronous configuration loading from various sources",
   "main": "./lib/index.js",
   "scripts": {
@@ -37,6 +37,7 @@
     "js-yaml": "^3.13.1"
   },
   "dependencies": {
-    "immutable": "^4.0.0-rc.12"
+    "immutable": "^4.0.0-rc.12",
+    "invariant": "^2.2.4"
   }
 }

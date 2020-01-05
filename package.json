@@ -1,5 +1,5 @@
 {
-  "name": "set-config",
+  "name": "final-config",
   "version": "0.1.0",
   "description": "Asynchronous configuration loading from various sources",
   "main": "./lib/index.js",

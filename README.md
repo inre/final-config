@@ -18,7 +18,7 @@ List of main features:
 
 Just type in your project home:
 
-`gem install set-config -s`
+`npm install set-config -s`
 
 ### How to use
 

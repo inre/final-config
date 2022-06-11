@@ -18,7 +18,7 @@ List of main features:
 
 Just type in your project home:
 
-`npm install set-config -s`
+`npm install final-config -s`
 
 ### How to use
 
